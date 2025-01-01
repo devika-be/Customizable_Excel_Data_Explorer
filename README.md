@@ -56,35 +56,39 @@ Customizable-Excel-Data-Explorer/
 └── .gitignore            # Files and folders to ignore in version control
 
 📋 Usage Instructions
-Enter the Folder Path: Specify the folder containing your Excel files.
-Choose a Column: Select the column you want to search from the dropdown menu.
-Enter Search Value: Provide the value to search for in the chosen column.
-Submit: Click the "Submit" button to perform the search.
-View Results: The matching results are displayed in a table on the screen.
+1. **Enter the Folder Path**: Specify the folder containing your Excel files.
+2. **Choose a Column**: Select the column you want to search from the dropdown menu.
+3. **Enter Search Value**: Provide the value to search for in the chosen column.
+4. **Submit**: Click the "Submit" button to perform the search.
+5. **View Results**: The matching results are displayed in a table on the screen.
+
 🧪 Example Use Cases
-Property Management: Search for specific properties by description.
-Document Tracking: Look up documents by their registration date or number.
-Sales Records: Filter data based on seller or purchaser details.
+- **Property Management**: Search for specific properties by description.
+- **Document Tracking**: Look up documents by their registration date or number.
+- **Sales Records**: Filter data based on seller or purchaser details.
+
 ⚠️ Known Limitations
-Only processes Excel files (.xls and .xlsx).
-Expects columns to match one of two predefined sets.
-Large files or folders with many files may impact performance.
+- Only processes Excel files (.xls and .xlsx).
+- Expects columns to match one of two predefined sets.
+- Large files or folders with many files may impact performance.
+
 📜 License
 This project is licensed under the MIT License.
 
 🤝 Contributions
 Contributions are welcome! If you'd like to improve this project:
 
-Fork the repository.
-Create a feature branch (git checkout -b feature-name).
-Commit your changes (git commit -m "Add feature").
-Push to the branch (git push origin feature-name).
-Open a Pull Request.
+1. Fork the repository.
+2. Create a feature branch (git checkout -b feature-name).
+3. Commit your changes (git commit -m "Add feature").
+4. Push to the branch (git push origin feature-name).
+5. Open a Pull Request.
+
 📧 Contact
 For any questions or feedback, feel free to reach out:
 
-Email: your-email@example.com
-GitHub: your-username
+Email: devika.be17@gmail.com
+GitHub: devika-be
 
 
 
