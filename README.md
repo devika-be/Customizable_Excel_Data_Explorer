@@ -1,3 +1,4 @@
+
 # Customizable Excel Data Explorer
 
 A user-friendly Streamlit application for searching and filtering data across multiple Excel files in a specified folder. This app allows you to quickly locate information within specific columns of Excel files, view results interactively, and handle mismatched or inaccessible files gracefully.
